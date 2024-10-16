@@ -46,6 +46,7 @@ environment {
                      server.publishBuildInfo(buildInfo)
                      echo '<--------------- Jar Publish Ended --------------->'  
              }
-        }     
+        }
+      }     
 }
 }
